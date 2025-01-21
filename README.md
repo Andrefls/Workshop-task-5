@@ -34,13 +34,26 @@ https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_i
 
 - https://www.dreamstime.com/photos-images/floating-sheet-paper.html.
 
-- After collecting the images, I used Photoshop to modify them and apply transparencies. However, when I followed the example from our lecture, my example didn't work. 
+- After collecting the images, I used Photoshop to modify them and apply transparencies. 
 
-- I tried numerous solutions and even asked AI (Meta) what might be wrong with my code. 
+- <img width="1513" alt="Screenshot 2025-01-21 at 5 33 44 pm" src="https://github.com/user-attachments/assets/bb71a48f-ed0f-42b9-94b7-df2001b06c13" />
 
-- Meta provided a long code response and mentioned that my code was missing some functions. 
+- However, when I followed the example from our lecture, my example didn't work.
+
+- <img width="487" alt="Screenshot 2025-01-20 at 3 01 34 pm" src="https://github.com/user-attachments/assets/5246d950-e487-488c-b0f4-29e3a2a47046" />
+
+- I tried numerous solutions and even asked AI (Meta) what might be wrong with my code.
+
+- <img width="253" alt="Ai q" src="https://github.com/user-attachments/assets/1379ad9b-ddd8-4e2f-934d-0cd2ddfdafa8" />
+
+- Meta provided a long code response and mentioned that my code was missing some functions.
+  
+- <img width="253" alt="Ai q" src="https://github.com/user-attachments/assets/1f50be8e-b75c-4f23-a715-20a9cb2e8db6" />
 
 - I hesitated to make those changes because I found it hard to believe that the example from the lecture was also missing something, especially since it was working.
+
+- <img width="578" alt="Screenshot 2025-01-21 at 5 35 18 pm" src="https://github.com/user-attachments/assets/d7741cda-f4b4-4450-a9e8-49d2752c3f42" />
+
 
 - So, I approached the lecturer instead for help. He pointed out that a capital letter in my code was preventing the formula from working correctly. 
 
@@ -48,10 +61,14 @@ https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_i
 
 - I also experimented with colours, canvas sizes, and distances to make everything fit well. After a long day of troubleshooting, I finally succeeded.
 
+- <img width="1659" alt="Screenshot 2025-01-20 at 8 15 33 pm" src="https://github.com/user-attachments/assets/7c2df90e-c8d6-404b-8d88-7aa0dc4dc965" />
+
+- <img width="1589" alt="Screenshot 2025-01-20 at 9 29 03 pm" src="https://github.com/user-attachments/assets/348eb1ee-0c52-42e5-807c-bd89b519d1df" />
+
 
 ## Future development
 
-- I would love to learn how to represent this date using fluids.. 
+- I would love to learn how to represent this data using fluids.
 
 ## Conclusion
 
