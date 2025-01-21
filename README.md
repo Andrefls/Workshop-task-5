@@ -48,7 +48,8 @@ https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_i
 
 - Meta provided a long code response and mentioned that my code was missing some functions.
   
-- <img width="253" alt="Ai q" src="https://github.com/user-attachments/assets/1f50be8e-b75c-4f23-a715-20a9cb2e8db6" />
+- <img width="187" alt="Ai a" src="https://github.com/user-attachments/assets/b68d0e34-9acc-4305-80c1-a9e7de214b54" />
+
 
 - I hesitated to make those changes because I found it hard to believe that the example from the lecture was also missing something, especially since it was working.
 
