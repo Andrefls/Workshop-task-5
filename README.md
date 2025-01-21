@@ -16,7 +16,7 @@ Link to Website https://andrefls.github.io/Workshop-task-5/
 
 - I first watched our lecture video at 
 
-https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967. 
+- https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967. 
 
 - After that, I spent a significant amount of time thinking about how to represent the data in the table. Once I had a workable idea, I started typing the data into the spreadsheet. 
 
